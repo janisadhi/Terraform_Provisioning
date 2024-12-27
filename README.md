@@ -2,7 +2,7 @@
 
 This repository contains Terraform code to provision an EC2 instance and a security group on AWS. The security group allows inbound traffic on ports 22 (SSH), 80 (HTTP), and 443 (HTTPS). The EC2 instance is configured to use a specific Amazon Machine Image (AMI) and is set to the `t2.micro` instance type.
 
-## Repository Name: `janisadhi/terraform-aws-ec2-setup`
+
 
 ---
 
@@ -17,8 +17,8 @@ Make sure to install Terraform and AWS CLI (if not already done) to be able to u
 
 1. **Clone this repository:**
    ```
-   git clone https://github.com/janisadhi/terraform-aws-ec2-setup.git
-   cd terraform-aws-ec2-setup
+   git clone https://github.com/janisadhi/Terraform_Provisioning
+   cd Terraform_Provisioning
    ```
 
 2. **Configure AWS CLI:**
